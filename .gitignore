@@ -1,0 +1,4 @@
+.venv
+data/clientes.db
+__pycache__
+.DS_Store
